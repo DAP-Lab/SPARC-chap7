@@ -1,0 +1,53 @@
+{
+    "min_pitch": 80,
+    "max_pitch": 350,
+    "start_time": 242,
+    "end_time": 255,
+    "vocal_audio_path": "../../audios/full-length/UB_Malkauns/voc.wav",
+    "mix_audio_path": "../../audios/full-length/UB_Malkauns/mix.wav",
+    "pakh_audio_path": "../../audios/full-length/UB_Malkauns/pakh.wav",
+    "cycle_file": "../../annotations/UB_Malkauns/cycle.csv",
+    "tonic": 139,
+    "notes": [
+        {
+            "label": "D_",
+            "cents": -400
+        },
+        {
+            "label": "N_",
+            "cents": -200
+        },
+        {
+            "label": "S",
+            "cents": 0
+        },
+        {
+            "label": "G",
+            "cents": 300
+        },
+        {
+            "label": "M",
+            "cents": 500
+        },
+        {
+            "label": "D",
+            "cents": 800
+        },
+        {
+            "label": "N",
+            "cents": 1000
+        },
+        {
+            "label": "S'",
+            "cents": 1200
+        },
+        {
+            "label": "G'",
+            "cents": 1500
+        },
+        {
+            "label": "M'",
+            "cents": 1700
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "min_pitch": 80,
+    "max_pitch": 350,
+    "start_time": 65.03,
+    "end_time": 80.1,
+    "vocal_audio_path": "../../audios/full-length/RCM_Bhairav/voc.wav",
+    "mix_audio_path": "../../audios/full-length/RCM_Bhairav/mix.wav",
+    "pakh_audio_path": "../../audios/full-length/RCM_Bhairav/pakh.wav",
+    "cycle_file": "../../annotations/RCM_Bhairav/cycle.csv",
+    "syllable_file": "../../annotations/example_2/syllables.csv",
+    "bol_file": "../../annotations/example_2/bols.csv",
+    "tonic": 147,
+    "notes": [
+        {
+            "label": "P_",
+            "cents": -500
+        },
+        {
+            "label": "D_",
+            "cents": -400
+        },
+        {
+            "label": "N_",
+            "cents": -100
+        },
+        {
+            "label": "S",
+            "cents": 0
+        },
+        {
+            "label": "R",
+            "cents": 100
+        },
+        {
+            "label": "G",
+            "cents": 400
+        },
+        {
+            "label": "M",
+            "cents": 500
+        },
+        {
+            "label": "P",
+            "cents": 700
+        },
+        {
+            "label": "D",
+            "cents": 800
+        },
+        {
+            "label": "N",
+            "cents": 1100
+        },
+        {
+            "label": "S'",
+            "cents": 1200
+        },
+        {
+            "label": "R'",
+            "cents": 1300
+        },
+        {
+            "label": "G'",
+            "cents": 1600
+        },
+        {
+            "label": "M'",
+            "cents": 1700
+        },
+        {
+            "label": "P'",
+            "cents": 1900
+        }
+    ]
+}

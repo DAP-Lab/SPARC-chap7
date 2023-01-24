@@ -1,0 +1,73 @@
+{
+    "min_pitch": 80,
+    "max_pitch": 350,
+    "start_time": 783,
+    "end_time": 847,
+    "vocal_audio_path": "../../audios/full-length/GB_AhirBhrv/voc.wav",
+    "mix_audio_path": "../../audios/full-length/GB_AhirBhrv/mix.wav",
+    "pakh_audio_path": "../../audios/full-length/GB_AhirBhrv/pakh.wav",
+    "cycle_file": "../../annotations/GB_AhirBhrv/cycle.csv",
+    "tonic": 139,
+    "notes": [
+        {
+            "label": "P_",
+            "cents": -500
+        },
+        {
+            "label": "D_",
+            "cents": -300
+        },
+        {
+            "label": "N_",
+            "cents": -200
+        },
+        {
+            "label": "S",
+            "cents": 0
+        },
+        {
+            "label": "R",
+            "cents": 100
+        },
+        {
+            "label": "G",
+            "cents": 400
+        },
+        {
+            "label": "M",
+            "cents": 500
+        },
+        {
+            "label": "P",
+            "cents": 700
+        },
+        {
+            "label": "D",
+            "cents": 900
+        },
+        {
+            "label": "N",
+            "cents": 1000
+        },
+        {
+            "label": "S'",
+            "cents": 1200
+        },
+        {
+            "label": "R'",
+            "cents": 1300
+        },
+        {
+            "label": "G'",
+            "cents": 1600
+        },
+        {
+            "label": "M'",
+            "cents": 1700
+        },
+        {
+            "label": "P'",
+            "cents": 1900
+        }
+    ]
+}
